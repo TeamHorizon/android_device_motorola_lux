@@ -27,3 +27,6 @@ PRODUCT_RELEASE_NAME := lux
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="Moto X Play"
+
+# Maintainer name
+PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer=axxx007xxxz
