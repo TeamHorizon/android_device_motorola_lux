@@ -30,3 +30,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # Maintainer name
 PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer=axxx007xxxz
+
+# Root method
+ROOT_METHOD=magisk
