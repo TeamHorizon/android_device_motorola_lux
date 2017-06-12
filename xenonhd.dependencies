@@ -10,8 +10,8 @@
     "branch": "n"
   },
   {
-    "repository": "TeamHorizon/proprietary_vendor_motorola",
+    "repository": "axxx007xxxz/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch": "n"
+    "branch": "cm-14.1"
   }
 ]
