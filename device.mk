@@ -51,7 +51,7 @@ PRODUCT_COPY_FILES += \
     device/motorola/lux/configs/libnfc-brcm-20795a20.conf:system/etc/libnfc-brcm-20795a20.conf
 
 PRODUCT_PACKAGES += \
-    android.hardware.nfc@1.0-impl \
+    android.hardware.nfc@1.0-impl-bcm \
     android.hardware.nfc@1.0-service \
     libnfc \
     libnfc_jni \
